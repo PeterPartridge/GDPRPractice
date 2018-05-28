@@ -1,0 +1,14 @@
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\bin\Debug\netcoreapp2.0\GDPR_Test_Practice.deps.json
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\bin\Debug\netcoreapp2.0\GDPR_Test_Practice.runtimeconfig.json
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\bin\Debug\netcoreapp2.0\GDPR_Test_Practice.runtimeconfig.dev.json
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\bin\Debug\netcoreapp2.0\GDPR_Test_Practice.dll
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\bin\Debug\netcoreapp2.0\GDPR_Test_Practice.pdb
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\obj\Debug\netcoreapp2.0\GDPR_Test_Practice.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\obj\Debug\netcoreapp2.0\GDPR_Test_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\obj\Debug\netcoreapp2.0\GDPR_Test_Practice.AssemblyInfoInputs.cache
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\obj\Debug\netcoreapp2.0\GDPR_Test_Practice.AssemblyInfo.cs
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\obj\Debug\netcoreapp2.0\GDPR_Test_Practice.dll
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPR_Test_Practice\obj\Debug\netcoreapp2.0\GDPR_Test_Practice.pdb

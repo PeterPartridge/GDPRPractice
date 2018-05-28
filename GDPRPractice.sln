@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDPRPractice", "GDPRPractice\GDPRPractice.csproj", "{B66E4568-853D-4A1E-A2D6-B8271B1740C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDPR_Test_Practice", "GDPR_Test_Practice\GDPR_Test_Practice.csproj", "{04645564-3754-4345-A222-65CF9E6C122D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{0BE13502-8AAE-430B-A380-B3DF46E65B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66E4568-853D-4A1E-A2D6-B8271B1740C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66E4568-853D-4A1E-A2D6-B8271B1740C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66E4568-853D-4A1E-A2D6-B8271B1740C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66E4568-853D-4A1E-A2D6-B8271B1740C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04645564-3754-4345-A222-65CF9E6C122D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04645564-3754-4345-A222-65CF9E6C122D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04645564-3754-4345-A222-65CF9E6C122D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04645564-3754-4345-A222-65CF9E6C122D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04645564-3754-4345-A222-65CF9E6C122D} = {0BE13502-8AAE-430B-A380-B3DF46E65B1D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A253F0-C828-498E-AF25-5154923A894C}
+	EndGlobalSection
+EndGlobal

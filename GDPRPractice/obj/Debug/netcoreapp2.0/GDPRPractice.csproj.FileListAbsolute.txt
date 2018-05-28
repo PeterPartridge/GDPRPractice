@@ -1,0 +1,11 @@
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\bin\Debug\netcoreapp2.0\GDPRPractice.deps.json
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\bin\Debug\netcoreapp2.0\GDPRPractice.runtimeconfig.json
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\bin\Debug\netcoreapp2.0\GDPRPractice.runtimeconfig.dev.json
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\bin\Debug\netcoreapp2.0\GDPRPractice.dll
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\bin\Debug\netcoreapp2.0\GDPRPractice.pdb
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\obj\Debug\netcoreapp2.0\GDPRPractice.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\obj\Debug\netcoreapp2.0\GDPRPractice.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\obj\Debug\netcoreapp2.0\GDPRPractice.AssemblyInfoInputs.cache
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\obj\Debug\netcoreapp2.0\GDPRPractice.AssemblyInfo.cs
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\obj\Debug\netcoreapp2.0\GDPRPractice.dll
+C:\Users\Peter\Source\Repos\GDPRPractice\GDPRPractice\obj\Debug\netcoreapp2.0\GDPRPractice.pdb
